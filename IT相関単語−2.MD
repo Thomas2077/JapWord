@@ -59,3 +59,32 @@
   4月以降、学校はオンライン授業を実施します。
   4がついこう、がっこうはオンラインじゅぎょうをじっしします。
   （4月以降、学校はオンライン授業を実施します。）
+- 「事柄」（ことがら）は、以下のような意味を持つ日本語の言葉です。
+  - 物事や出来事、事実や内容などのこと。
+  - 特定の話題や項目に関連する内容や情報。
+   -例文：
+  - この報告書には重要な事柄が記載されています。
+  （This report contains important matters.)
+  - この報告書には重要な事柄が記載されています。
+  （This report contains important matters.)
+  - 会議で話し合うべき事柄を整理しましょう。
+  （Let's organize the matters to be discussed in the meeting.)
+  「事柄」は、一般的な話題や内容を指す言葉であり、具体的な文脈に応じて使用されます。文脈によっては、「事項」（じこう）や「内容」（ないよう）などの言葉とも関連する使い方があります。
+- 「携わる」（たずさわる）は、以下のような意味を持つ日本語の動詞です。
+  何かに関与したり、参加したりすること。
+  何かに関連して関わったり、従事したりすること。
+  例文：
+  このプロジェクトに携わっています。
+  （I'm involved in this project.)
+  このプロジェクトに携わっています。
+  （I'm involved in this project.)
+  地域の活動に携わることで、社会貢献を果たしたいです。
+  （I want to contribute to society by participating in community activities.)
+  新製品の開発に携わっているチームは優れた成果を上げました。
+  （The team involved in the development of the new product achieved excellent results.)
+  「携わる」は、ある活動や事業、プロジェクトなどに参加したり、関与したりすることを表す動詞です。具体的な文脈によって、関与する対象や内容が異なることがあります。
+
+
+
+
+
