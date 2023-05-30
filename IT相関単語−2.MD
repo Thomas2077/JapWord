@@ -83,7 +83,9 @@
   新製品の開発に携わっているチームは優れた成果を上げました。
   （The team involved in the development of the new product achieved excellent results.)
   「携わる」は、ある活動や事業、プロジェクトなどに参加したり、関与したりすることを表す動詞です。具体的な文脈によって、関与する対象や内容が異なることがあります。
-
+- よくリーダーと日本語で話しをしています
+- 時間によって、データを分類する
+- ポスグレSQL  postgreSQL
 
 
 
