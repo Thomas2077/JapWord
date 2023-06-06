@@ -25,7 +25,7 @@ else
    echo "Your name is your username"
 fi
 
-echo "Always excuted" && echo " Only executed if first command"
+echo "Always executed" && echo " Only executed if first command"
 
 if [ $Name == "Steve" ] && [ $Age -eq 15 ]
 then
