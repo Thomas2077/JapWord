@@ -31,3 +31,5 @@ if [ $Name == "Steve" ] && [ $Age -eq 15 ]
 then
   echo "This will run if $Name is Steve And $Age is 15"
 fi
+
+brew searh jdk
